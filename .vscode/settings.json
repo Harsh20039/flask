@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/28b3ea2a-f46c-4d54-8f83-bf525fb22665/resourceGroups/flaskk_group/providers/Microsoft.Web/sites/flaskk",
+    "appService.deploySubpath": "."
+}
